@@ -6,15 +6,15 @@ const Contact: React.FC = () => {
     {
       icon: <Phone size={24} />,
       label: 'WhatsApp',
-      value: '+XX (XX) XXXXX-XXXX',
-      href: 'https://web.whatsapp.com/',
+      value: '+55(11) 94883-9794',
+      href: 'https://w.app/v9203x',
       color: 'bg-green-500/20 text-green-400 border-green-500/20'
     },
     {
       icon: <Mail size={24} />,
       label: 'Email',
-      value: 'email@example.com',
-      href: 'mailto:email@example.com',
+      value: 'matheus.ancheschi13@gmail.com',
+      href: 'mailto:matheus.ancheschi13@gmail.com',
       color: 'bg-red-500/20 text-red-400 border-red-500/20'
     },
     {
@@ -27,8 +27,8 @@ const Contact: React.FC = () => {
     {
       icon: <Github size={24} />,
       label: 'GitHub',
-      value: 'github-user',
-      href: 'https://github.com/',
+      value: 'Devancheschi',
+      href: 'https://github.com/Devancheschi/',
       color: 'bg-purple-500/20 text-purple-400 border-purple-500/20'
     }
   ];
