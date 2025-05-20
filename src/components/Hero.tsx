@@ -42,11 +42,11 @@ const Hero: React.FC = () => {
         
         <div className="w-full md:w-1/2 flex justify-center md:justify-end">
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-purple-600/30 shadow-xl shadow-purple-900/20">
-            <img 
-              src="./src/images/img.jfif"
-              alt="Matheus Ancheschi - Desenvolvedor"
-              className="absolute inset-0 w-full h-full object-cover"
-            />
+            <img
+  src="/images/img.jfif"
+  alt="Matheus Ancheschi - Desenvolvedor"
+  className="absolute inset-0 w-full h-full object-cover"
+/>
           </div>
         </div>
       </div>
