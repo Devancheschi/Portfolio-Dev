@@ -46,6 +46,7 @@ const Hero: React.FC = () => {
             src/images/img.jfif"
                 alt="Matheus Ancheschi - Desenvolvedor"
               className="absolute inset-0 w-full h-full object-cover"
+          </img>
 />
           </div>
         </div>
